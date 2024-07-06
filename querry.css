@@ -1,0 +1,14 @@
+@media screen and (max-width: 600px) {
+    .navbar a:not(:first-child) {display: none;}
+    .navbar a.icon {
+        float: right;
+        display: block;
+      }
+      .navbar{
+        border-radius: .5rem;
+      }
+      #side-menu{
+        width: 50vw;
+      }
+
+}

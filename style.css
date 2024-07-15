@@ -23,7 +23,10 @@ body {
     font-family: Arial, sans-serif;
     background-color: #898989;
 
-  }
+}
+html {
+    scroll-behavior: smooth;
+}
 
   
 .txt-center{
